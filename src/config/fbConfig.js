@@ -3,7 +3,7 @@ import "firebase/firestore";
 import "firebase/auth";
 
 var firebaseConfig = {
-    apiKey: "AIzaSyBzJrSAv7zOy3Mp5kMZ6iYhw40QeRO3bac",
+    apiKey: "[API_KEY]",
     authDomain: "react-marioplan-77fd3.firebaseapp.com",
     databaseURL: "https://react-marioplan-77fd3.firebaseio.com",
     projectId: "react-marioplan-77fd3",
