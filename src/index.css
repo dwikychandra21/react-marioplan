@@ -19,6 +19,13 @@ form button, form h5 {
   margin: 20px 0;
 }
 
+nav button {
+  color: #fff;
+  background: transparent;
+  border: 0;
+  font-family: sans-serif;
+}
+
 input[type=text]:not(.browser-default):focus:not([readonly]),
 input[type=email]:not(.browser-default):focus:not([readonly]),
 input[type=password]:not(.browser-default):focus:not([readonly]),
